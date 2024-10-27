@@ -1,6 +1,6 @@
 1.anaconda安装
 百度搜索anaconda清华镜像或打开网址（https://www.anaconda.com/products/distribution）
-![图1](b12a2208e8e985580e98707ac8291b3.png)
+![图1](ad26828ca7d25a7f623579ced8c5c51.png)
 
 在界面中根据提示下载
 找到属于自己电脑版本的文件
